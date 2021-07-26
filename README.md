@@ -1,5 +1,5 @@
 # money-management-app
-While i make this app, i wanted to learn things about JSON, LocalStorage and improve my JavaScript skills.
+While making this app, i wanted to learn things about JSON, LocalStorage and improve my JavaScript skills.
 
 I focused on getting user inputs and listify these inputs as JSON objects on LocalStorage and calculate them.
 
