@@ -1,0 +1,311 @@
+  body{
+    background-color: white;
+    color: rgb(0, 0, 0);
+    overflow:unset;
+    }
+  .container{
+    width: 400px;
+    background-color: rgb(42, 5, 100);
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 15px;
+    overflow: unset;
+    padding-right: 7px;
+    padding-left: 7px;      
+    }
+  .btn{
+    background-color: rgb(42, 5, 100);
+    border-color: #FF9AA2;
+    border: solid 2px;
+    box-shadow: rgb(0, 225, 255);
+    padding: 0px;
+    width: 95px;
+    font-size: 18px;
+    font-weight: 500;
+    padding-left: 0px;
+    color: white;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin-bottom: 8px;
+    margin-top: 20px;
+  }
+  .lead{
+    color: white;
+    font-weight: 0;
+    font-size: 0px;
+    margin-bottom: 1px !important;
+  }
+  .altContainer svg{
+    fill: rgb(25, 5, 58);
+  }
+  button{
+    font-size: 20px;
+    overflow:unset;
+  }
+  h1{
+    color: white;
+  }
+  lead{
+    color: white;
+  }
+  .btn:hover {
+    color: #fff;
+    background-color:  rgb(65, 7, 160);
+    border-color:  #ffffff;
+    overflow:unset;
+   }
+
+  .altContainer{
+    background-color: rgb(42, 5, 100);
+    overflow: unset;
+  }
+  .px-4{
+    height: 30%; 
+  }
+  div.sticky{
+    position: -webkit-sticky !important;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+  }
+  .sticky2{
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background-image: linear-gradient(to right bottom, yellow,#e2384c, rgb(42, 5, 100));
+    background-color: black;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    border-top-left-radius: 15px;  
+    border-top-right-radius: 15px;
+    overflow:unset;
+  }
+  .container2{
+    background-color: white;
+    width: 100%;
+    min-height: 200px;
+    border-top: solid 7px;
+    padding-bottom: 30px;
+    border-color: rgb(42, 5, 100);
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    
+  }
+  .cont2{
+    padding: 10px;
+    text-align: center;    
+  }
+  .container-md{
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .firstp{
+    padding-top: 5px;
+    font-weight: 700;
+    display: inline-flex;
+    padding-left: 30px;
+  }
+  .expdate{
+    padding-top: 5px;
+    color: rgba(0, 0, 0, 0.746);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+  }
+  form{
+    border-top: solid 7px;
+    border-color: rgb(42, 5, 100);
+  }
+  .expdate p{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 500;
+  }
+  img{
+    margin-left: 30px;
+    margin-top: 5px;
+  }
+  .exps{
+    display: block;
+    text-align: center;
+  }
+  #exName{
+    width: 200px;
+    margin-bottom: 0px;
+    border-radius: 10px;
+    border-style: none;
+    border: 1px solid white;
+    padding: 10px;
+    box-shadow: 0px 0px 20px 2px rgba(0, 0, 0, 0.466);
+    color: rgb(42, 5, 100);
+  }
+  #amountName{
+    width: 200px;
+    margin-bottom: 0px;
+    border-radius: 10px;
+    border-style: none;
+    border: 1px solid white;
+    padding: 10px;
+    box-shadow: 0px 0px 20px 2px rgba(0, 0, 0, 0.466);
+    color: rgb(42, 5, 100)
+  }
+  .datesubmit{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    background-color: rgb(0, 0, 0);
+    border:solid 2px;
+    border-color: rgb(42, 5, 100);
+    border-radius: 5px;
+    color: rgb(245, 228, 228);
+    font-family: 'Nunito', sans-serif;
+    font-weight: 500;
+    font-weight: 500;
+    margin-top: 10px;
+  }
+  #dateName{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    border-radius: 10px;
+    border-style: none;
+    border: 0px solid rgb(224, 224, 224);
+    padding: 10px;
+    box-shadow: 0px 0px 20px 2px rgba(0, 0, 0, 0.466);
+    color: rgb(42, 5, 100);
+    background: white;
+  }
+  .dateName svg{
+    fill: rgb(42, 5, 100)
+  }
+  .expssubmit{
+    background-color: #e2384c;
+    border:unset;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    font-family: 'Nunito', sans-serif;
+    font-weight: 500;
+    font-weight: 500;
+    font-size: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    width: 40px;
+    height: 24px;
+    padding-top: 3px;
+  }
+  .content1{
+    border-bottom: solid 7px;
+    border-color: rgb(42, 5, 100);
+  }
+  .content1 p{
+    font-family: 'Nunito', sans-serif;
+    font-size: 16px;
+    margin-top: 10px;
+    margin-bottom: 2px;
+    text-align: center;
+    font-weight: 700;
+    color: rgb(42, 5, 100);
+  }
+  svg{
+    margin-left: 0px;
+    margin-right: 7px;
+  }
+  .test p{
+    display: inline-block;
+    font-weight: 500;
+    color: rgb(42, 5, 100);
+    
+  }
+  .col{
+    padding-top: 8px;
+    border-right: solid 2px #e2384c;
+    box-sizing: border-box;
+    height: 40px;
+    position: inherit;
+}
+  .row{
+    margin-right: -10px;
+    margin-left: -0px;
+    box-sizing: border-box;
+    
+  }
+  .colll{
+    border-image: linear-gradient(to right, yellow,#e2384c, rgb(42, 5, 100)) 30;
+    height: 30px;
+    border-top: solid 2px;
+  }
+  .row:hover{
+    background: rgba(0, 217, 255, 0.096);
+  }
+  .coll p{
+    height: 30px;
+  }
+  .dateClass{
+    height: 30px;
+    border-bottom: solid 2px;
+    border-image: linear-gradient(to right, yellow,#e2384c, rgb(42, 5, 100)) 30;
+    position: inherit;
+  }
+  .dateClass:hover{
+    background: rgba(0, 217, 255, 0.096);
+  }
+  .dateClass p{
+    margin-block-start: 0px;
+    position: inherit;
+  }
+  #dateTest{
+    margin-top: 3px;
+    position: absolute;
+  }
+  .colll svg{
+    margin-left: 15px;
+    margin-top: 6px;
+    margin-bottom: 55px;
+    margin-right: 10px;
+}
+  .test{
+    background-color: white;
+    width: 80%;
+    height: 30%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 5px;
+    overflow: hidden;
+    margin-top: 30px;
+    border: 0px solid white;
+    padding: 0px;
+    box-shadow: 0px 0px 20px 2px rgba(0, 0, 0, 0.466);
+    border-right: solid 2px rgb(42, 5, 100);
+    border-left: solid 2px rgb(255, 208, 0);
+  }
+  .content1 span{
+    color: red;
+  }
+  .containerr{
+    border-bottom: solid 2px;
+    border-image: linear-gradient(to right, yellow,#e2384c, rgb(42, 5, 100)) 30;
+  }
+  p span{
+    font-size: 15px;
+  }
+  .salary{
+  color: white;
+  font-weight: 400;
+  font-size: 30px;
+  margin-bottom: 10px !important;
+  }
+  .nameSpan{
+    white-space: nowrap; 
+    width: 50px; 
+    overflow: hidden;
+    text-overflow: ellipsis; 
+  }
